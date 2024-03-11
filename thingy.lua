@@ -45,7 +45,7 @@ Tab:AddToggle({
 AntiAFK:AddButton({
 	Name = "Anti-AFK",
 	Callback = function()
-        loadstring(game:HttpGet("https://pastebin.com/raw/gsxvWvnj"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/sinful2tap/thingy/main/antiafk.lua"))()
   	end    
 })
 
